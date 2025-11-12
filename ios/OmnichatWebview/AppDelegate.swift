@@ -24,7 +24,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     window = UIWindow(frame: UIScreen.main.bounds)
 
     factory.startReactNative(
-      withModuleName: "OmnichatWebview",
+      withModuleName: "WebChat-v2",
       in: window,
       launchOptions: launchOptions
     )

@@ -22,10 +22,10 @@ const DEFAULT_VALUES = {
   appkey:
     'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0ZWFtTmFtZSI6IjFkNWYxMDk1LTVkZDEtNDFmYS1hOThkLWI1NzkwYmYyNzViNSJ9.r7T6ro7U7UkD9Mjbtfh_usklv-0vbJqog-zyjmXZIVM',
   ssokey: 'Qazpkw2jhbtejovJwfyoTyx12rhapq',
-  clientId: 'JoanTest',
-  memberId: 'JoanTest',
-  name: 'Joan',
-  email: 'joan@example.com',
+  clientId: 'QA_TEST',
+  memberId: 'QA_TEST',
+  name: 'QA_TEST',
+  email: 'qa_test@example.com',
   phone: '+886912345678',
 };
 
